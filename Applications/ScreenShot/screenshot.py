@@ -1,4 +1,5 @@
 from tkinter import*
+import pyautogui # You are not imported this module
 
 win = Tk()
 win.title("LoopGlitch Screenshoter")
